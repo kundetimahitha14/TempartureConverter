@@ -6,7 +6,7 @@ public class Main {
         TemperatureConverter tc = new TemperatureConverter();
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Welcome to Temperature Converter");
+        System.out.println("Welcome to Mahitha's Temperature converter");
 
         System.out.print("Enter the temperature value: ");
         double inputValue = scan.nextDouble();
