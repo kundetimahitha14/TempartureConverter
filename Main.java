@@ -17,7 +17,7 @@ public class Main {
         double centigrade;
         double fahrenheit;
         double kelvin;
-        System.out.println("Temperature Conversion Results:");
+        System.out.println("mahitha's Temperature Conversion Results:");
         switch (inputScale) {
             case "F":
                 centigrade = tc.convertFtoC(inputValue);
