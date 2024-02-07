@@ -1,7 +1,8 @@
+
 public class TemperatureConverter {
 
-
-    public double convertFtoC(double fahreinheit) {
+// Hi, this is Mahitha, and it is my Fahreinheit to Centigrade conversion code.
+    public double convertFtoC(double fahreinheit) { 
         return (fahreinheit - 32) * 5/9;
     }
 
